@@ -82,28 +82,28 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-> 💡 **Thay tên repository thật của bạn vào đây để hiển thị projects**
-
 <div align="center">
 
 <a href="https://github.com/quoclam2111/TaskManagement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=project-1&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=TaskManagement&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/quoclam2111/Library-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=project-2&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=Library-management&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/quoclam2111/fashionTFO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=project-3&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=fashionTFO&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/quoclam2111/techstore_beta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=project-4&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quoclam2111&repo=techstore_beta&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -112,10 +112,10 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project Name 1](#)** | Mô tả ngắn gọn về project (ví dụ: REST API cho hệ thống quản lý) | Python, Django, PostgreSQL |
-| **[Project Name 2](#)** | Mô tả project 2 (ví dụ: Web app quản lý task) | Node.js, Express, MongoDB |
-| **[Project Name 3](#)** | Mô tả project 3 (ví dụ: E-commerce platform) | Java, Spring Boot, MySQL |
-| **[Project Name 4](#)** | Mô tả project 4 (ví dụ: Weather dashboard) | Vue.js, Node.js, APIs |
+| **[Task Management](https://github.com/quoclam2111/TaskManagement)** | Web application for managing tasks and projects with real-time updates | Node.js, Express, MongoDB |
+| **[Library Management](https://github.com/quoclam2111/Library-management)** | Complete library management system with book tracking and user management | Java, Spring Boot, MySQL |
+| **[Fashion TFO](https://github.com/quoclam2111/fashionTFO)** | E-commerce platform for fashion products with shopping cart and payment | Vue.js, Node.js, PostgreSQL |
+| **[Tech Store Beta](https://github.com/quoclam2111/techstore_beta)** | Online store for technology products with admin dashboard | JavaScript, Express, MongoDB |
 
 <p align="center">
   <a href="https://github.com/quoclam2111?tab=repositories">
@@ -131,6 +131,8 @@ me.say_hi()
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quoclam2111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoclam2111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoclam2111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -150,18 +152,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=quoclam2111&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quoclam2111/quoclam2111/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quoclam2111/quoclam2111/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quoclam2111/quoclam2111/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
