@@ -21,27 +21,12 @@
 
 ## 👨‍💻 About Me
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Quoc Lam"
-        self.role = "Backend Developer Intern"
-        self.location = "Vietnam 🇻🇳"
-        self.languages = ["Python", "Java", "JavaScript"]
-        self.currently_learning = ["Microservices Architecture", "Cloud Technologies"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = BackendDeveloper()
-me.say_hi()
-```
-
 - 🔭 I'm currently working as a **Backend Developer Intern**
 - 🌱 I'm currently learning **Microservices Architecture** and **Cloud Technologies**
 - 💬 Ask me about **Python, Java, Node.js, Vue.js**
 - 📫 How to reach me: **quoclam2111@gmail.com**
 - ⚡ Fun fact: I love solving algorithmic problems!
+- 🎯 2025 Goals: Build production-ready applications and contribute to Open Source
 
 ---
 
